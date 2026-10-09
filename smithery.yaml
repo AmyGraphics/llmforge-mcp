@@ -1,0 +1,26 @@
+name: llmforge-mcp
+displayName: LLMForge - Autonomous AI Engineering, LLM Evals, Fine-Tuning & Inference Cost Engine MCP
+description: Universal AI engineering engine for Cursor, Claude Code & Windsurf. Architects complete LLM blueprints (prompting vs RAG vs fine-tuning vs agents matrix, model selection with token cost projections), builds eval harnesses (golden datasets, LLM-as-judge with bias controls, CI regression gates), produces fine-tuning recipes (LoRA/QLoRA configs with concrete hyperparameters, honest should-you-finetune gates, distillation paths), slashes inference bills 50-90% (cascade routing, prompt caching, batch APIs, self-host break-even math), and hardens LLM features for production (prompt injection defense, fallback chains, red-team checklists, incident runbooks).
+category: developer-tools
+homepage: https://github.com/AmyGraphics/llmforge-mcp
+repository: https://github.com/AmyGraphics/llmforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/llmforge-mcp/main/icon.png
+keywords:
+  - llm
+  - ai-engineering
+  - evals
+  - fine-tuning
+  - lora
+  - qlora
+  - llmops
+  - inference-optimization
+  - prompt-caching
+  - llm-as-judge
+  - guardrails
+  - prompt-injection
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://llmforge-api.agentweb-hub.workers.dev/mcp
