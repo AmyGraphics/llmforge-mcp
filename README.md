@@ -13,6 +13,12 @@ Universal Autonomous AI Engineering: LLM Architecture, Evals, Fine-Tuning, Infer
 `https://llmforge-api.agentweb-hub.workers.dev/mcp`
 
 
+## 🔴 NEW in v1.1 — Live Tool: `compare_llm_prices_live`
+
+Queries the OpenRouter public models API live and compares REAL current prices across 450+ LLMs: prompt/completion cost per 1M tokens, context windows, cheapest matches, and zero-cost models.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
